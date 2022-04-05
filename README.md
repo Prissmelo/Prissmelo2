@@ -1,7 +1,7 @@
 Hi , I'm Priscila Melo
 Profile views
 
-💻 Junior Full Stack Developer & Systems Analysis and Development Student
+💻 Desenvolvedora Full Stack Jr.
 
 👾 Aprendi sobre Java and React Js
 
@@ -22,14 +22,16 @@ JavaScript  Java  HTML  CSS  Bootstrap  React  Git  GitHub  ReactNative  MySql  
 
 
 ⚙️  GitHub Analytics
-GuisMartins's stats
+Take your time ....
 
-GuisMartins's most languages
+Prissmelo's stats
+
+Prissmelo's most languages
 
 
 
 
-💁🏽‍♀  Social Links: 
+💁🏽‍♀  Social Links: https://www.linkedin.com/in/priscila-melo-3b0b05199
 
 
 
